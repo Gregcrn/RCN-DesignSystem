@@ -49,6 +49,10 @@
   margin-bottom: var(--rcn-semantic-margin-vertical-modal);
 }
 
+.rcn-modal__footer{
+  padding: var(--rcn-semantic-padding-vertical-600) var(--rcn-semantic-padding-horizontal-700);
+}
+
 .rcn-modal__topOverlay {
   min-height: var(--rcn-semantic-height-overlay_modale);
   height: var(--rcn-semantic-height-overlay_modale);
